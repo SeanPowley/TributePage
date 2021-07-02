@@ -3,6 +3,8 @@ h1 {
     display: flex;
     justify-content: center;
     font-size: 50px;
+   
+    
 }
 ul { text-align: center;
     list-style-position: inside;
@@ -13,4 +15,17 @@ ul { text-align: center;
 img {
     display: block;
     margin:auto;
-}    
+}
+
+html {
+    background-color: rgba(138, 133, 133, 0.9);
+}
+
+#border1{
+    width: 70%;
+    margin-left: auto;
+    margin-right:auto;
+    border-color: black;
+    border-width: 3px;
+    
+}
