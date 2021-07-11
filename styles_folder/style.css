@@ -10,6 +10,7 @@ ul { text-align: center;
     list-style-position: inside;
     font-size: 20px;
     
+    
     }
 
 img {
@@ -27,5 +28,14 @@ html {
     margin-right:auto;
     border-color: black;
     border-width: 3px;
+    
+}
+
+li {
+    margin: 16px 0;
+}
+
+#pjam1{ text-align: center;
+    font-size: 30px;
     
 }
