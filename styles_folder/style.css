@@ -3,19 +3,24 @@ h1 {
     display: flex;
     justify-content: center;
     font-size: 50px;
+    
    
     
 }
-ul { text-align: center;
-    list-style-position: inside;
-    font-size: 20px;
-    
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  font-size: 20px;
     
     }
 
 img {
     display: block;
     margin:auto;
+    
+    
 }
 
 html {
@@ -32,10 +37,29 @@ html {
 }
 
 li {
-    margin: 16px 0;
+    margin: 32px;
+    padding: 6px;
+    
+    
 }
 
 #pjam1{ text-align: center;
     font-size: 30px;
     
 }
+
+#img-caption {
+    text-align: center;
+}
+
+body {
+    margin: 0 auto;
+    
+    
+}
+  
+#tribute-info {
+    font-size: 30px;
+    text-align: center;
+}
+
